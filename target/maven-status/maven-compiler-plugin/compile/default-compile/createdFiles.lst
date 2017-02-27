@@ -1,0 +1,6 @@
+controllers/UserController.class
+models/User.class
+models/Message.class
+controllers/ChatController.class
+controllers/UserController$1.class
+controllers/CommandController.class
